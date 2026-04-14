@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-native": "latest",
+    "react-navigation": "latest",
+    "axios": "latest",
+    "socket.io-client": "latest"
+  }
+}
